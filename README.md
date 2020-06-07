@@ -4,7 +4,7 @@ Apart from manual classification, another approach to text classification is mac
 
 Here, for text classification, [20 newsgroups](https://archive.ics.uci.edu/ml/datasets/Twenty+Newsgroups) dataset is used. This dataset has 20 classes, but I have demonstrated using only 5 classes.
 
-There are many methods for text classification. Of those, only **multinomial Naive Bayes** and **K-Nearest Neighbour** are used here.
+There are many methods for text classification. Of those,**multinomial Naive Bayes** and **K-Nearest Neighbour** are used here.
 
 ### Feature Selection
 
